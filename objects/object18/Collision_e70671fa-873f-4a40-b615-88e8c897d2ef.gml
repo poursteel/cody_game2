@@ -30,10 +30,10 @@ if(variable >= 12)
 	/// @DnDVersion : 1
 	/// @DnDHash : 4D758475
 	/// @DnDParent : 54C6A538
-	/// @DnDArgument : "expr" "4"
+	/// @DnDArgument : "expr" "3"
 	/// @DnDArgument : "expr_relative" "1"
 	/// @DnDArgument : "var" "global.wood"
-	global.wood += 4;
+	global.wood += 3;
 }
 
 /// @DnDAction : YoYo Games.Common.Else
@@ -45,8 +45,8 @@ else
 	/// @DnDVersion : 1
 	/// @DnDHash : 2D515397
 	/// @DnDParent : 6A29775C
-	/// @DnDArgument : "expr" "3"
+	/// @DnDArgument : "expr" "4"
 	/// @DnDArgument : "expr_relative" "1"
 	/// @DnDArgument : "var" "global.wood"
-	global.wood += 3;
+	global.wood += 4;
 }
