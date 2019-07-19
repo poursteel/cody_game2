@@ -23,6 +23,6 @@ global.wood += 3;
 /// @DnDAction : YoYo Games.Audio.Play_Audio
 /// @DnDVersion : 1
 /// @DnDHash : 577201E1
-/// @DnDArgument : "soundid" "cody_chainsaw"
-/// @DnDSaveInfo : "soundid" "15299780-a750-49ea-81c2-4e25796a14e0"
-audio_play_sound(cody_chainsaw, 0, 0);
+/// @DnDArgument : "soundid" "doh"
+/// @DnDSaveInfo : "soundid" "40ff5eac-2e4c-481c-af0d-81c737455488"
+audio_play_sound(doh, 0, 0);
