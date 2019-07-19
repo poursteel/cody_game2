@@ -324,25 +324,6 @@
             }
         },
         {
-            "Key": "3813ae65-f51e-4c5b-a4cf-f4b09eadedde",
-            "Value": {
-                "id": "86a6d077-4890-4aa9-8eb5-8d2c4aa99b8b",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "objects\/object4\/object4.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "38d0f85b-0a7e-4690-87da-0df82e885bf2",
             "Value": {
                 "id": "97d5f3ef-4fe5-4361-9857-0e8ad6c3d75e",
