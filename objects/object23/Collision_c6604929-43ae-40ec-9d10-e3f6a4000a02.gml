@@ -12,3 +12,11 @@ global.steel += 2;
 /// @DnDArgument : "steps" "230"
 /// @DnDArgument : "alarm" "1"
 alarm_set(1, 230);
+
+/// @DnDAction : YoYo Games.Movement.Jump_To_Point
+/// @DnDVersion : 1
+/// @DnDHash : 22E6E132
+/// @DnDArgument : "x" "601"
+/// @DnDArgument : "y" "141"
+x = 601;
+y = 141;

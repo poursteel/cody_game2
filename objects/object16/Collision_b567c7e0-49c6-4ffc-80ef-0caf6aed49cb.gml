@@ -1,10 +1,9 @@
-/// @DnDAction : YoYo Games.Common.Set_Global
+/// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1
-/// @DnDHash : 745FDABA
-/// @DnDArgument : "value" "1"
-/// @DnDArgument : "value_relative" "1"
-/// @DnDArgument : "var" "coal"
-global.coal += 1;
+/// @DnDHash : 7C9673EC
+/// @DnDArgument : "steps" "220"
+/// @DnDArgument : "alarm" "3"
+alarm_set(3, 220);
 
 /// @DnDAction : YoYo Games.Movement.Jump_To_Point
 /// @DnDVersion : 1
