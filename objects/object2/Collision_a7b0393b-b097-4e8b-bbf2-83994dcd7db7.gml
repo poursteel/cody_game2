@@ -19,5 +19,6 @@ if(global.coal >= 4)
 	/// @DnDVersion : 1
 	/// @DnDHash : 7EB5F58C
 	/// @DnDParent : 300B69DC
-	variable = 0;
+	/// @DnDArgument : "var" ""
+	 = 0;
 }
