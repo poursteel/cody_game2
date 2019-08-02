@@ -21,3 +21,9 @@ global.coal = 0;
 /// @DnDHash : 689B6039
 /// @DnDArgument : "var" "steel"
 global.steel = 0;
+
+/// @DnDAction : YoYo Games.Common.Set_Global
+/// @DnDVersion : 1
+/// @DnDHash : 2B4E99ED
+/// @DnDArgument : "var" "hotsteel"
+global.hotsteel = 0;

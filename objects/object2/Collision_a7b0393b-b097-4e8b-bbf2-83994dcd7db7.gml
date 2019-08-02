@@ -19,6 +19,17 @@ if(global.coal >= 4)
 	/// @DnDVersion : 1
 	/// @DnDHash : 7EB5F58C
 	/// @DnDParent : 300B69DC
-	/// @DnDArgument : "var" ""
-	 = 0;
+	/// @DnDArgument : "expr" "-2"
+	/// @DnDArgument : "expr_relative" "1"
+	/// @DnDArgument : "var" "global.steel"
+	global.steel += -2;
+
+	/// @DnDAction : YoYo Games.Common.Variable
+	/// @DnDVersion : 1
+	/// @DnDHash : 78A26262
+	/// @DnDParent : 300B69DC
+	/// @DnDArgument : "expr" "2"
+	/// @DnDArgument : "expr_relative" "1"
+	/// @DnDArgument : "var" "global.hotsteel"
+	global.hotsteel += 2;
 }
